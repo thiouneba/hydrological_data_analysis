@@ -41,7 +41,7 @@ Key findings:
 
 These results suggest a consistent downstream warming trend along the river corridor.
 
-![Descriptive statistics table](https://github.com/thiouneEtu/etude_temperature_eau/blob/main/temp_eau2.PNG)
+![Descriptive statistics table](https://github.com/thiouneba/hydrological_data_analysis/blob/main/temp_eau2.PNG)
 
 ---
 
@@ -51,9 +51,9 @@ Independent Component Analysis (ICA) is a statistical method for identifying lat
 
 ICA was applied here to separate the underlying temporal components driving water temperature variation.
 
-![ICA — Component time series](https://github.com/thiouneEtu/etude_temperature_eau/blob/main/temp_eau3.PNG)
+![ICA — Component time series](https://github.com/thiouneba/hydrological_data_analysis/blob/main/temp_eau3.PNG)
 
-![ICA — Phase shift between components](https://github.com/thiouneEtu/etude_temperature_eau/blob/main/temp_eau4.PNG)
+![ICA — Phase shift between components](https://github.com/thiouneba/hydrological_data_analysis/blob/main/temp_eau4.PNG)
 
 Key observations:
 
@@ -66,7 +66,7 @@ Key observations:
 
 Principal Component Analysis (PCA) is a multivariate dimensionality reduction technique that projects correlated variables into a new set of orthogonal, uncorrelated components (Abdi & Williams, 2010). PCA was used here to validate the ICA results and to explore the correlation structure among variables.
 
-![PCA biplot](https://github.com/thiouneEtu/etude_temperature_eau/blob/main/temp_eau5.PNG)
+![PCA biplot](https://github.com/thiouneba/hydrological_data_analysis/blob/main/temp_eau5.PNG)
 
 Key findings:
 
