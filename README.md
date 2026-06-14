@@ -20,7 +20,7 @@ The core objective of this study is to understand and explain the **variability 
 
 The dataset contains **93,832 observations** recorded between **2013 and 2018**, across **6 variables**.
 
-![Dataset overview](https://github.com/thiouneEtu/etude_temperature_eau/blob/main/temp_eau1.PNG)
+![Dataset overview](https://github.com/thiouneba/hydrological_data_analysis/blob/main/temp_eau1.PNG)
 
 ---
 
